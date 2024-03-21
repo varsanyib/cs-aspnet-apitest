@@ -1,0 +1,6 @@
+@ASP_API_MNGR_HostAddress = http://localhost:5173
+
+GET {{ASP_API_MNGR_HostAddress}}/api/User
+Accept: application/json
+
+###
